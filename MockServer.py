@@ -6,18 +6,19 @@ from flask import make_response
 from flask import current_app
 
 import json
+import os
+from flask import send_from_directory
+
 # import MySQLdb
 from datetime import timedelta
 from functools import update_wrapper
-from bson import json_util  # date parse for last_modified_date
-#from bson.json_util import dumps
+from bson import json_util
 
 from tornado.wsgi import WSGIContainer
 from tornado.httpserver import HTTPServer
 from tornado.ioloop import IOLoop
 
 from functools import wraps
-#from cas import CASClient
 import requests as reqsts
 
 app = Flask(__name__)
@@ -68,20 +69,7 @@ def crossdomain(origin=None, methods=None, headers=None,
 
 def check_auth(username, password):
     print "authentication"
-    return True #login 
-    try:
-        client = CASClient(
-            "shchandheld.intra.searshc.com",
-            "/casWeb/v1/tickets/",
-            port=None,
-            timeout=15,
-            https=True,
-        )
-        token = client.login(username, password)
-    except Exception as e:
-        print "Exception"
-        return False
-    return True
+    return True  # login 
 
 @crossdomain(origin='*')
 def authenticate():
@@ -98,6 +86,11 @@ def requires_auth(f):
         return f(*args, **kwargs)
     return decorated
 
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
+    
 @app.before_request
 def db_connect():
     pass
@@ -135,8 +128,8 @@ def totalRequests():
 @crossdomain(origin='*')
 def searchResults():
     f = open('data/search-results.json', 'r')
-    data= f.read()
-    #data = json.dumps(result, default=json_util.default, ensure_ascii=False)
+    data = f.read()
+    # data = json.dumps(result, default=json_util.default, ensure_ascii=False)
     resp = Response(data, status=200, mimetype='application/json')
     return resp
 
