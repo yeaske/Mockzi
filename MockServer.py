@@ -100,7 +100,6 @@ def requires_auth(f):
 @app.before_request
 def db_connect():
     pass
-#     g.conn = MySQLdb.connect(host="157.241.46.63", user="ilpinnoforms", passwd="ILPinn0Forms", db="formtools", port=3372)
 #     g.conn = MySQLdb.connect(host="127.0.0.1", user="root", passwd="yourpasswordhere", db="test", port=3306)
 #     g.cursor = g.conn.cursor()
 
