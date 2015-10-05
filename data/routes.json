@@ -1,0 +1,4670 @@
+[
+	{
+		"state": "hunting",
+		"categoryId": 1,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/hunting",
+		"title": "Hunting",
+		"description": "This is a description about the Hunting department",
+		"keywords": ["Optics", "Game Calls", "Blinds", "Knives", "Tools", "Treestands"],
+		"children": [
+			{
+				"state": "archery",
+				"categoryId": 2,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/archery",
+				"title": "Archery",
+				"description": "This is a description about the Archery category",
+				"keywords": ["Archery", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "compound-bows",
+						"categoryId": 3,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/compound-bows",
+						"title": "Compound Bows",
+						"description": "This is a description about the Compound Bows subcategory",
+						"keywords": ["Compound Bows", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "crossbows",
+						"categoryId": 4,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/crossbows",
+						"title": "Crossbows",
+						"description": "This is a description about the Crossbows subcategory",
+						"keywords": ["Crossbows", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "recurve-and-traditional-bows",
+						"categoryId": 5,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/recurve-and-traditional-bows",
+						"title": "Recurve & Traditional Bows",
+						"description": "This is a description about the Recurve & Traditional Bows subcategory",
+						"keywords": ["Recurve & Traditional Bows", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-bowfishing",
+						"categoryId": 6,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bowfishing",
+						"title": "Bowfishing",
+						"description": "This is a description about the Bowfishing subcategory",
+						"keywords": ["Bowfishing", "Keyword", "Another Keyword"],
+						"children": [
+							{
+								"state": "lorem-ipsum-1-grandchild-1",
+								"categoryId": 7,
+								"level": 5,
+								"view": "Family",
+								"url": "/f/lorem-ipsum-1-grandchild-1",
+								"title": "Lorem Ipsum 1 Grndchld 1",
+								"description": "This is a description about the Lorem Ipsum 1 Grandchild 1 family",
+								"keywords": ["Lorem Ipsum 1 Grandchild 1", "Keyword", "Another Keyword"],
+								"children": []
+							},
+							{
+								"state": "lorem-ipsum-1-grandchild-2",
+								"categoryId": 8,
+								"level": 5,
+								"view": "Family",
+								"url": "/f/lorem-ipsum-1-grandchild-2",
+								"title": "Lorem Ipsum 1 Grndchld 2",
+								"description": "This is a description about the Lorem Ipsum 1 Grandchild 2 family",
+								"keywords": ["Lorem Ipsum 1 Grandchild 2", "Keyword", "Another Keyword"],
+								"children": []
+							},
+							{
+								"state": "lorem-ipsum-1-grandchild-3",
+								"categoryId": 9,
+								"level": 5,
+								"view": "Family",
+								"url": "/f/lorem-ipsum-1-grandchild-3",
+								"title": "Lorem Ipsum 1 Grndchld 3",
+								"description": "This is a description about the Lorem Ipsum 1 Grandchild 3 family",
+								"keywords": ["Lorem Ipsum 1 Grandchild 3", "Keyword", "Another Keyword"],
+								"children": []
+							},
+							{
+								"state": "lorem-ipsum-1-grandchild-4",
+								"categoryId": 10,
+								"level": 5,
+								"view": "Family",
+								"url": "/f/lorem-ipsum-1-grandchild-4",
+								"title": "Lorem Ipsum 1 Grndchld 4",
+								"description": "This is a description about the Lorem Ipsum 1 Grandchild 4 family",
+								"keywords": ["Lorem Ipsum 1 Grandchild 4", "Keyword", "Another Keyword"],
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"state": "archery-accessories",
+				"categoryId": 11,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/archery-accessories",
+				"title": "Archery Accessories",
+				"description": "This is a description about the Archery Accessories category",
+				"keywords": ["Archery Accessories", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "archery-targets",
+						"categoryId": 12,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-targets",
+						"title": "Archery Targets",
+						"description": "This is a description about the Archery Targets subcategory",
+						"keywords": ["Archery Targets", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-cases",
+						"categoryId": 13,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-cases",
+						"title": "Cases",
+						"description": "This is a description about the Cases subcategory",
+						"keywords": ["Cases", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-other",
+						"categoryId": 14,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-other",
+						"title": "Other",
+						"description": "This is a description about the Archery Accessories Other subcategory",
+						"keywords": ["Archery Accessories Other", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "arrows-and-bolts",
+						"categoryId": 15,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/arrows-and-bolts",
+						"title": "Arrows & Bolts",
+						"description": "This is a description about the Arrows & Bolts subcategory",
+						"keywords": ["Arrows & Bolts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "broadheads-and-tips",
+						"categoryId": 16,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/broadheads-and-tips",
+						"title": "Broadheads & Tips",
+						"description": "This is a description about the Broadheads & Tips subcategory",
+						"keywords": ["Broadheads & Tips", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-sights",
+						"categoryId": 17,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-sights",
+						"title": "Sights",
+						"description": "This is a description about the Archery Accessories Sights subcategory",
+						"keywords": ["Archery Accessories Sights", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-releases",
+						"categoryId": 18,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-releases",
+						"title": "Releases",
+						"description": "This is a description about the Archery Accessories Releases subcategory",
+						"keywords": ["Archery Accessories Releases", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-quivers",
+						"categoryId": 19,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-quivers",
+						"title": "Quivers",
+						"description": "This is a description about the Archery Accessories Quivers subcategory",
+						"keywords": ["Archery Accessories Quivers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-stabilizers",
+						"categoryId": 20,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-stabilizers",
+						"title": "Stabilizers",
+						"description": "This is a description about the Archery Accessories Stabilizers subcategory",
+						"keywords": ["Archery Accessories Stabilizers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-accessories-rests",
+						"categoryId": 21,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-accessories-rests",
+						"title": "Rests",
+						"description": "This is a description about the Archery Accessories Rests subcategory",
+						"keywords": ["Archery Accessories Rests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "archery-string-accessories",
+						"categoryId": 22,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/archery-string-accessories",
+						"title": "String Accessories",
+						"description": "This is a description about the Archery String Accessories subcategory",
+						"keywords": ["Archery String Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "tree-stands",
+				"categoryId": 23,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/tree-stands",
+				"title": "Tree Stands",
+				"description": "This is a description about the Tree Stands category",
+				"keywords": ["Tree Stands", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "tree-stand-ladders",
+						"categoryId": 24,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tree-stand-ladders",
+						"title": "Ladders",
+						"description": "This is a description about the Tree Stand Ladders subcategory",
+						"keywords": ["Tree Stand Ladders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tree-stand-climbing",
+						"categoryId": 25,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tree-stand-climbing",
+						"title": "Climbing",
+						"description": "This is a description about the Tree Stand Climbing subcategory",
+						"keywords": ["Tree Stand Climbing", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tree-stand-hang-ons",
+						"categoryId": 26,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tree-stand-hang-ons",
+						"title": "Hang Ons",
+						"description": "This is a description about the Tree Stand Hang Ons subcategory",
+						"keywords": ["Tree Stand Hang Ons", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tree-stand-accessories",
+						"categoryId": 27,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tree-stand-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Tree Stand Accessories subcategory",
+						"keywords": ["Tree Stand Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "blinds",
+				"categoryId": 28,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/blinds",
+				"title": "Blinds",
+				"description": "This is a description about the Blinds category",
+				"keywords": ["Blinds", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "ground-blinds",
+						"categoryId": 29,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ground-blinds",
+						"title": "Ground Blinds",
+						"description": "This is a description about the Ground Blinds subcategory",
+						"keywords": ["Ground Blinds", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "waterfowl-blinds",
+						"categoryId": 30,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/waterfowl-blinds",
+						"title": "Waterfowl Blinds",
+						"description": "This is a description about the Waterfowl Blinds subcategory",
+						"keywords": ["Waterfowl Blinds", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "box-blinds-and-tripods",
+						"categoryId": 31,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/box-blinds-and-tripods",
+						"title": "Box Blinds & Tripods",
+						"description": "This is a description about the Box Blinds & Tripods subcategory",
+						"keywords": ["Box Blinds & Tripods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hunting-chairs-and-stools",
+						"categoryId": 32,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hunting-chairs-and-stools",
+						"title": "Hunting Chairs & Stools",
+						"description": "This is a description about the Hunting Chairs & Stools subcategory",
+						"keywords": ["Hunting Chairs & Stools", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "hunting-optics",
+				"categoryId": 33,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/optics",
+				"title": "Optics",
+				"description": "This is a description about the Optics category",
+				"keywords": ["Optics", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "scopes",
+						"categoryId": 34,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/scopes",
+						"title": "Scopes",
+						"description": "This is a description about the Scopes subcategory",
+						"keywords": ["Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "binoculars",
+						"categoryId": 35,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/binoculars",
+						"title": "Binoculars",
+						"description": "This is a description about the Binoculars subcategory",
+						"keywords": ["Binoculars", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rangefinders",
+						"categoryId": 36,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rangefinders",
+						"title": "Rangefinders",
+						"description": "This is a description about the Rangefinders subcategory",
+						"keywords": ["Rangefinders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hunting-spotting-scopes",
+						"categoryId": 37,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spotting-scopes",
+						"title": "Spotting Scopes",
+						"description": "This is a description about the Spotting Scopes subcategory",
+						"keywords": ["Spotting Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "red-dot-scopes",
+						"categoryId": 38,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/red-dot-scopes",
+						"title": "Red Dot Scopes",
+						"description": "This is a description about the Red Dot Scopes subcategory",
+						"keywords": ["Red Dot Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bore-sighters",
+						"categoryId": 39,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bore-sighters",
+						"title": "Bore Sighters",
+						"description": "This is a description about the Bore Sighters subcategory",
+						"keywords": ["Bore Sighters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "crossbow-scopes",
+						"categoryId": 40,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/crossbow-scopes",
+						"title": "Crossbow Scopes",
+						"description": "This is a description about the Crossbow Scopes subcategory",
+						"keywords": ["Crossbow Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "night-vision",
+						"categoryId": 41,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/night-vision",
+						"title": "Night Vision",
+						"description": "This is a description about the Night Vision subcategory",
+						"keywords": ["Night Vision", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "telescopes",
+						"categoryId": 42,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/telescopes",
+						"title": "Telescopes",
+						"description": "This is a description about the Telescopes subcategory",
+						"keywords": ["Telescopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "monoculars",
+						"categoryId": 43,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/monoculars",
+						"title": "Monoculars",
+						"description": "This is a description about the Monoculars subcategory",
+						"keywords": ["Monoculars", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mounts-rings-and-bases",
+						"categoryId": 44,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mounts-rings-and-bases",
+						"title": "Mounts, Rings & Bases",
+						"description": "This is a description about the Mounts, Rings & Bases subcategory",
+						"keywords": ["Mounts, Rings & Bases", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "optics-accessories",
+						"categoryId": 45,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/optics-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Accessories subcategory",
+						"keywords": ["Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "decoys",
+				"categoryId": 46,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/decoys",
+				"title": "Decoys",
+				"description": "This is a description about the Decoys category",
+				"keywords": ["Decoys", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "decoys-waterfowl",
+						"categoryId": 48,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-waterfowl",
+						"title": "Waterfowl",
+						"description": "This is a description about the Waterfowl Decoys subcategory",
+						"keywords": ["Waterfowl Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-turkey",
+						"categoryId": 49,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-turkey",
+						"title": "Turkey",
+						"description": "This is a description about the Turkey Decoys subcategory",
+						"keywords": ["Turkey Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-deer",
+						"categoryId": 50,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-deer",
+						"title": "Deer & Big Game",
+						"description": "This is a description about the Deer & Big Game Decoys subcategory",
+						"keywords": ["Deer & Big Game Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-predator-and-varmint",
+						"categoryId": 51,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-predator-and-varmint",
+						"title": "Predator & Varmint",
+						"description": "This is a description about the Predator & Varmint Decoys subcategory",
+						"keywords": ["Predator & Varmint Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-small-game",
+						"categoryId": 52,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-small-game",
+						"title": "Small Game",
+						"description": "This is a description about the Small Game Decoys subcategory",
+						"keywords": ["Small Game Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-dove",
+						"categoryId": 53,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-dove",
+						"title": "Dove",
+						"description": "This is a description about the Dove Decoys subcategory",
+						"keywords": ["Dove Decoys", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "decoys-accessories",
+						"categoryId": 54,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/decoys-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Decoys Accessories subcategory",
+						"keywords": ["Decoys Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "game-calls",
+				"categoryId": 55,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/game-calls",
+				"title": "Game Calls",
+				"description": "This is a description about the Game Calls category",
+				"keywords": ["Game Calls", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "calls-waterfowl",
+						"categoryId": 56,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-waterfowl",
+						"title": "Waterfowl",
+						"description": "This is a description about the Waterfowl Calls subcategory",
+						"keywords": ["Waterfowl Calls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "calls-turkey",
+						"categoryId": 57,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-turkey",
+						"title": "Turkey",
+						"description": "This is a description about the Turkey Calls subcategory",
+						"keywords": ["Turkey Calls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "calls-deer",
+						"categoryId": 58,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-deer",
+						"title": "Deer & Big Game",
+						"description": "This is a description about the Deer & Big Game Calls subcategory",
+						"keywords": ["Deer & Big Game Calls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "calls-predator-and-varmint",
+						"categoryId": 59,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-predator-and-varmint",
+						"title": "Predator & Varmint",
+						"description": "This is a description about the Predator & Varmint Calls subcategory",
+						"keywords": ["Predator & Varmint Calls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "calls-small-game",
+						"categoryId": 60,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-small-game",
+						"title": "Small Game",
+						"description": "This is a description about the Small Game Calls subcategory",
+						"keywords": ["Small Game Calls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "calls-accessories",
+						"categoryId": 61,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/calls-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Game Calls Accessories subcategory",
+						"keywords": ["Game Calls Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "electronics",
+				"categoryId": 62,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/electronics",
+				"title": "Electronics",
+				"description": "This is a description about the Electronics category",
+				"keywords": ["Electronics", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "trail-cameras",
+						"categoryId": 63,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/trail-cameras",
+						"title": "Trail Cameras",
+						"description": "This is a description about the Trail Cameras subcategory",
+						"keywords": ["Trail Cameras", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "cameras",
+						"categoryId": 64,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/cameras",
+						"title": "Cameras",
+						"description": "This is a description about the Cameras subcategory",
+						"keywords": ["Cameras", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "electronics-spotlights",
+						"categoryId": 65,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spotlights",
+						"title": "Spotlights",
+						"description": "This is a description about the Spotlights subcategory",
+						"keywords": ["Spotlights", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "two-way-radios",
+						"categoryId": 66,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/two-way-radios",
+						"title": "Two Way Radios",
+						"description": "This is a description about the Two Way Radios subcategory",
+						"keywords": ["Two Way Radios", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gps",
+						"categoryId": 67,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/gps",
+						"title": "GPS",
+						"description": "This is a description about the GPS subcategory",
+						"keywords": ["GPS", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "knives-&-tools",
+				"categoryId": 68,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/knives-&-tools",
+				"title": "Knives & Tools",
+				"description": "This is a description about the Knives & Tools category",
+				"keywords": ["Knives & Tools", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "fixed-and-folding-knives",
+						"categoryId": 69,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fixed-and-folding-knives",
+						"title": "Fixed & Folding Knives",
+						"description": "This is a description about the Fixed & Folding Knives subcategory",
+						"keywords": ["Fixed & Folding Knives", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "multi-tools",
+						"categoryId": 70,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/multi-tools",
+						"title": "Multi Tools",
+						"description": "This is a description about the Multi Tools subcategory",
+						"keywords": ["Multi Tools", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "machetes",
+						"categoryId": 71,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/machetes",
+						"title": "Machetes",
+						"description": "This is a description about the Machetes subcategory",
+						"keywords": ["Machetes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "saws-and-axes",
+						"categoryId": 72,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/saws-and-axes",
+						"title": "Saws & Axes",
+						"description": "This is a description about the Saws & Axes subcategory",
+						"keywords": ["Saws & Axes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "sharpeners",
+						"categoryId": 73,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/sharpeners",
+						"title": "Sharpeners",
+						"description": "This is a description about the Sharpeners subcategory",
+						"keywords": ["Sharpeners", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "hunting-accessories",
+				"categoryId": 74,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/hunting-accessories",
+				"title": "Hunting Accessories",
+				"description": "This is a description about the Hunting Accessories category",
+				"keywords": ["Hunting Accessories", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "scent-control",
+						"categoryId": 75,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/scent-control",
+						"title": "Scent Control",
+						"description": "This is a description about the Scent Control subcategory",
+						"keywords": ["Scent Control", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "scents-and-lures",
+						"categoryId": 76,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/scents-and-lures",
+						"title": "Scents & Lures",
+						"description": "This is a description about the Scents & Lures subcategory",
+						"keywords": ["Scents & Lures", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "attractants-and-minerals",
+						"categoryId": 77,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/attractants-and-minerals",
+						"title": "Attractants & Minerals",
+						"description": "This is a description about the Attractants & Minerals subcategory",
+						"keywords": ["Attractants & Minerals", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "feeders",
+						"categoryId": 78,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/feeders",
+						"title": "Feeders",
+						"description": "This is a description about the Feeders subcategory",
+						"keywords": ["Feeders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "backpacks",
+						"categoryId": 79,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/backpacks",
+						"title": "Backpacks",
+						"description": "This is a description about the Backpacks subcategory",
+						"keywords": ["Backpacks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "field-dressing",
+						"categoryId": 80,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/field-dressing",
+						"title": "Field Dressing",
+						"description": "This is a description about the Field Dressing subcategory",
+						"keywords": ["Field Dressing", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "other-hunting-accessories",
+						"categoryId": 81,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/other-hunting-accessories",
+						"title": "Other",
+						"description": "This is a description about the Other Hunting Accessories subcategory",
+						"keywords": ["Other Hunting Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "dog-training",
+				"categoryId": 82,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/dog-training",
+				"title": "Dog Training",
+				"description": "This is a description about the Dog Training category",
+				"keywords": ["Dog Training", "Keyword", "Another Keyword"],
+				"children": []
+			}
+		]
+	},
+	{
+		"state": "shooting",
+		"categoryId": 83,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/shooting",
+		"title": "Shooting",
+		"description": "This is a description about the Shooting top-level department",
+		"keywords": ["Rifles", "Pistols", "Ammo", "Targets", "Compound Bows", "Arrows"],
+		"children": [
+			{
+				"state": "guns",
+				"categoryId": 84,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/guns",
+				"title": "Guns",
+				"description": "This is a description about the Guns category",
+				"keywords": ["Guns", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "centerfire-rifles",
+						"categoryId": 85,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/centerfire-rifles",
+						"title": "Centerfire Rifles",
+						"description": "This is a description about the Centerfire Rifles subcategory",
+						"keywords": ["Centerfire Rifles", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rimfire-rifles",
+						"categoryId": 86,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rimfire-rifles",
+						"title": "Rimfire Rifles",
+						"description": "This is a description about the Rimfire Rifles subcategory",
+						"keywords": ["Rimfire Rifles", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shotguns",
+						"categoryId": 87,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/shotguns",
+						"title": "Shotguns",
+						"description": "This is a description about the Shotguns subcategory",
+						"keywords": ["Shotguns", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "handguns",
+						"categoryId": 88,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/handguns",
+						"title": "Handguns",
+						"description": "This is a description about the Handguns subcategory",
+						"keywords": ["Handguns", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "black-powder-guns",
+						"categoryId": 89,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/black-powder-guns",
+						"title": "Black Powder Guns",
+						"description": "This is a description about the Black Powder Guns subcategory",
+						"keywords": ["Black Powder Guns", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "ammunition",
+				"categoryId": 90,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/ammunition",
+				"title": "Ammunition",
+				"description": "This is a description about the Ammunition category",
+				"keywords": ["Ammunition", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "centerfire-ammunition",
+						"categoryId": 91,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/centerfire-ammunition",
+						"title": "Centerfire",
+						"description": "This is a description about the Centerfire Ammunition subcategory",
+						"keywords": ["Centerfire Ammunition", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rimfire-ammunition",
+						"categoryId": 92,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rimfire-ammunition",
+						"title": "Rimfire",
+						"description": "This is a description about the Rimfire Ammunition subcategory",
+						"keywords": ["Rimfire Ammunition", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shotgun-shells",
+						"categoryId": 93,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/shotgun-shells",
+						"title": "Shotgun Shells",
+						"description": "This is a description about the Shotgun Shells subcategory",
+						"keywords": ["Shotgun Shells", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "handgun-ammunition",
+						"categoryId": 94,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/handgun-ammunition",
+						"title": "Handgun",
+						"description": "This is a description about the Handgun Ammunition subcategory",
+						"keywords": ["Handgun Ammunition", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "black-powder-ammunition",
+						"categoryId": 95,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/black-powder-ammunition",
+						"title": "Black Powder",
+						"description": "This is a description about the Black Powder Ammunition subcategory",
+						"keywords": ["Black Powder Ammunition", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ammunition-reloading",
+						"categoryId": 96,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ammunition-reloading",
+						"title": "Reloading",
+						"description": "This is a description about the Ammunition Reloading subcategory",
+						"keywords": ["Ammunition Reloading", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "shooting-optics",
+				"categoryId": 97,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/optics",
+				"title": "Optics",
+				"description": "This is a description about the Optics category",
+				"keywords": ["Optics", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "shooting-scopes",
+						"categoryId": 98,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/scopes",
+						"title": "Scopes",
+						"description": "This is a description about the Shooting Scopes subcategory",
+						"keywords": ["Shooting Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-binoculars",
+						"categoryId": 99,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/binoculars",
+						"title": "Binoculars",
+						"description": "This is a description about the Binoculars subcategory",
+						"keywords": ["Binoculars", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-rangefinders",
+						"categoryId": 100,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rangefinders",
+						"title": "Rangefinders",
+						"description": "This is a description about the Rangefinders subcategory",
+						"keywords": ["Rangefinders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-spotting-scopes",
+						"categoryId": 101,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spotting-scopes",
+						"title": "Spotting Scopes",
+						"description": "This is a description about the Spotting Scopes subcategory",
+						"keywords": ["Spotting Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-red-dot-scopes",
+						"categoryId": 102,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/red-dot-scopes",
+						"title": "Red Dot Scopes",
+						"description": "This is a description about the Red Dot Scopes subcategory",
+						"keywords": ["Red Dot Scopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-bore-sighters",
+						"categoryId": 103,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bore-sighters",
+						"title": "Bore Sighters",
+						"description": "This is a description about the Bore Sighters subcategory",
+						"keywords": ["Bore Sighters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-night-vision",
+						"categoryId": 104,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/night-vision",
+						"title": "Night Vision",
+						"description": "This is a description about the Night Vision subcategory",
+						"keywords": ["Night Vision", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-telescopes",
+						"categoryId": 105,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/telescopes",
+						"title": "Telescopes",
+						"description": "This is a description about the Telescopes subcategory",
+						"keywords": ["Telescopes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-monoculars",
+						"categoryId": 106,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/monoculars",
+						"title": "Monoculars",
+						"description": "This is a description about the Monoculars subcategory",
+						"keywords": ["Monoculars", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-mounts-rings-bases",
+						"categoryId": 107,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mounts-rings-bases",
+						"title": "Mounts, Rings & Bases",
+						"description": "This is a description about the Mounts, Rings & Bases subcategory",
+						"keywords": ["Mounts, Rings & Bases", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-accessories",
+						"categoryId": 108,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Shooting Accessories subcategory",
+						"keywords": ["Shooting Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "gun-storage",
+				"categoryId": 109,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/gun-storage",
+				"title": "Gun Storage",
+				"description": "This is a description about the Gun Storage category",
+				"keywords": ["Gun Storage", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "gun-safes",
+						"categoryId": 110,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/safes",
+						"title": "Safes",
+						"description": "This is a description about the Safes subcategory",
+						"keywords": ["Safes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-cabinets",
+						"categoryId": 111,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/cabinets",
+						"title": "Cabinets",
+						"description": "This is a description about the Cabinets subcategory",
+						"keywords": ["Cabinets", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "personal-safes",
+						"categoryId": 112,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/personal-safes",
+						"title": "Personal Safes",
+						"description": "This is a description about the Personal Safes subcategory",
+						"keywords": ["Personal Safes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-cases",
+						"categoryId": 113,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/cases",
+						"title": "Cases",
+						"description": "This is a description about the Cases subcategory",
+						"keywords": ["Cases", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-storage-accessories",
+						"categoryId": 114,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/gun-storage-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Gun Storage Accessories subcategory",
+						"keywords": ["Gun Storage Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "shooting-equipment",
+				"categoryId": 115,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/shooting-equipment",
+				"title": "Shooting Equipment",
+				"description": "This is a description about the Shooting Equipment category",
+				"keywords": ["Shooting Equipment", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "ammunition-and-utility-boxes",
+						"categoryId": 116,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ammunition-and-utility-boxes",
+						"title": "Ammunition & Utility Boxes",
+						"description": "This is a description about the Ammunition & Utility Boxes subcategory",
+						"keywords": ["Ammunition & Utility Boxes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "lead-sleds",
+						"categoryId": 117,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/lead-sleds",
+						"title": "Lead Sleds",
+						"description": "This is a description about the Lead Sleds subcategory",
+						"keywords": ["Lead Sleds", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "shooting-throwers",
+						"categoryId": 118,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/throwers",
+						"title": "Throwers",
+						"description": "This is a description about the Throwers subcategory",
+						"keywords": ["Throwers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "sticks-bipods-rests",
+						"categoryId": 119,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/sticks-bipods-rests",
+						"title": "Sticks, Bipods & Rests",
+						"description": "This is a description about the Sticks, Bipods & Rests subcategory",
+						"keywords": ["Sticks, Bipods & Rests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bags-and-pouches",
+						"categoryId": 120,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bags-and-pouches",
+						"title": "Bags & Pouches",
+						"description": "This is a description about the Bags & Pouches subcategory",
+						"keywords": ["Bags & Pouches", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "eye-protection",
+						"categoryId": 121,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/eye-protection",
+						"title": "Eye Protection",
+						"description": "This is a description about the Eye Protection subcategory",
+						"keywords": ["Eye Protection", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ear-protection",
+						"categoryId": 122,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ear-protection",
+						"title": "Ear Protection",
+						"description": "This is a description about the Ear Protection subcategory",
+						"keywords": ["Ear Protection", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "gun-accessories",
+				"categoryId": 123,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/gun-accessories",
+				"title": "Gun Accessories",
+				"description": "This is a description about the Gun Accessories category",
+				"keywords": ["Gun Accessories", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "slings-and-straps",
+						"categoryId": 124,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/slings-and-straps",
+						"title": "Slings & Straps",
+						"description": "This is a description about the Slings & Straps subcategory",
+						"keywords": ["Slings & Straps", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-holsters",
+						"categoryId": 125,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/holsters",
+						"title": "Holsters",
+						"description": "This is a description about the Holsters subcategory",
+						"keywords": ["Holsters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-components",
+						"categoryId": 126,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/components",
+						"title": "Components",
+						"description": "This is a description about the Components subcategory",
+						"keywords": ["Components", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-maintenance",
+						"categoryId": 127,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/maintenance",
+						"title": "Maintenance",
+						"description": "This is a description about the Maintenance subcategory",
+						"keywords": ["Maintenance", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "gun-accessories-other",
+						"categoryId": 128,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/gun-accessories-other",
+						"title": "Other",
+						"description": "This is a description about the Gun Accessories Other subcategory",
+						"keywords": ["Gun Accessories Other", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "targets",
+				"categoryId": 129,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/targets",
+				"title": "Targets",
+				"description": "This is a description about the Targets category",
+				"keywords": ["Targets", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "recreational-shooting",
+				"categoryId": 130,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/recreational-shooting",
+				"title": "Recreational Shooting",
+				"description": "This is a description about the Recreational Shooting category",
+				"keywords": ["Recreational Shooting", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "bb-and-pellett-guns",
+						"categoryId": 131,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bb-and-pellett-guns",
+						"title": "BB & Pellett Guns",
+						"description": "This is a description about the BB & Pellett Guns subcategory",
+						"keywords": ["BB & Pellett Guns", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "airsoft-guns",
+						"categoryId": 132,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/airsoft",
+						"title": "Airsoft",
+						"description": "This is a description about the Airsoft subcategory",
+						"keywords": ["Airsoft", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "paintball-guns",
+						"categoryId": 133,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/paintball",
+						"title": "Paintball",
+						"description": "This is a description about the Paintball subcategory",
+						"keywords": ["Paintball", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "recreational-shooting-accessories",
+						"categoryId": 134,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/recreational-shooting-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Recreational Shooting Accessories subcategory",
+						"keywords": ["Recreational Shooting Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "fishing",
+		"categoryId": 135,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/fishing",
+		"title": "Fishing",
+		"description": "This is a description about the Fishing top-level department",
+		"keywords": ["Rods", "Reels", "Lures", "Flies", "Fly Fishing", "Waders"],
+		"children": [
+			{
+				"state": "reels",
+				"categoryId": 136,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/reels",
+				"title": "Reels",
+				"description": "This is a description about the Reels category",
+				"keywords": ["Reels", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "reels-spinning",
+						"categoryId": 137,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-spinning",
+						"title": "Spinning",
+						"description": "This is a description about the Spinning Reels subcategory",
+						"keywords": ["Spinning Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "reels-baitcasting",
+						"categoryId": 138,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-baitcasting",
+						"title": "Baitcasting",
+						"description": "This is a description about the Baitcasting Reels subcategory",
+						"keywords": ["Baitcasting Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "reels-spincast",
+						"categoryId": 139,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-spincast",
+						"title": "Spincast",
+						"description": "This is a description about the Spincast Reels subcategory",
+						"keywords": ["Spincast Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "reels-saltwater",
+						"categoryId": 140,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-saltwater",
+						"title": "Saltwater",
+						"description": "This is a description about the Saltwater Reels subcategory",
+						"keywords": ["Saltwater Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "reels-fly-fishing",
+						"categoryId": 141,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-fly-fishing",
+						"title": "Fly Fishing",
+						"description": "This is a description about the Fly Fishing Reels subcategory",
+						"keywords": ["Fly Fishing Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "reels-ice-fishing",
+						"categoryId": 142,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/reels-ice-fishing",
+						"title": "Ice Fishing",
+						"description": "This is a description about the Ice Fishing Reels subcategory",
+						"keywords": ["Ice Fishing Reels", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "rods",
+				"categoryId": 143,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/rods",
+				"title": "Rods",
+				"description": "This is a description about the Rods category",
+				"keywords": ["Rods", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "rods-spinning",
+						"categoryId": 144,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-spinning",
+						"title": "Spinning",
+						"description": "This is a description about the Spinning Rods subcategory",
+						"keywords": ["Spinning Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rods-baitcasting",
+						"categoryId": 145,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-baitcasting",
+						"title": "Baitcasting",
+						"description": "This is a description about the Baitcasting Rods subcategory",
+						"keywords": ["Baitcasting Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rods-saltwater",
+						"categoryId": 146,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-saltwater",
+						"title": "Saltwater",
+						"description": "This is a description about the Saltwater Rods subcategory",
+						"keywords": ["Saltwater Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rods-trolling",
+						"categoryId": 147,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-trolling",
+						"title": "Trolling",
+						"description": "This is a description about the Trolling Rods subcategory",
+						"keywords": ["Trolling Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rods-fly-fishing",
+						"categoryId": 148,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-fly-fishing",
+						"title": "Fly Fishing",
+						"description": "This is a description about the Fly Fishing Rods subcategory",
+						"keywords": ["Fly Fishing Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rods-ice-fishing",
+						"categoryId": 149,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rods-ice-fishing",
+						"title": "Ice Fishing",
+						"description": "This is a description about the Ice Fishing Rods subcategory",
+						"keywords": ["Ice Fishing Rods", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "rod-&-reel-combos",
+				"categoryId": 150,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/rod-&-reel-combos",
+				"title": "Rod & Reel Combos",
+				"description": "This is a description about the Rod & Reel Combos category",
+				"keywords": ["Rod & Reel Combos", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "combos-spinning",
+						"categoryId": 151,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-spinning",
+						"title": "Spinning",
+						"description": "This is a description about the Spinning Combos subcategory",
+						"keywords": ["Spinning Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-baitcasting",
+						"categoryId": 152,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-baitcasting",
+						"title": "Baitcasting",
+						"description": "This is a description about the Baitcasting Combos subcategory",
+						"keywords": ["Baitcasting Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-spincast",
+						"categoryId": 153,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-spincast",
+						"title": "Spincast",
+						"description": "This is a description about the Spincast Combos subcategory",
+						"keywords": ["Spincast Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-saltwater",
+						"categoryId": 154,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-saltwater",
+						"title": "Saltwater",
+						"description": "This is a description about the Saltwater Combos subcategory",
+						"keywords": ["Saltwater Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-trolling",
+						"categoryId": 155,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-trolling",
+						"title": "Trolling",
+						"description": "This is a description about the Trolling Combos subcategory",
+						"keywords": ["Trolling Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-fly-fishing",
+						"categoryId": 156,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-fly-fishing",
+						"title": "Fly Fishing",
+						"description": "This is a description about the Fly Fishing Combos subcategory",
+						"keywords": ["Fly Fishing Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-ice-fishing",
+						"categoryId": 157,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-ice-fishing",
+						"title": "Ice Fishing",
+						"description": "This is a description about the Ice Fishing Combos subcategory",
+						"keywords": ["Ice Fishing Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "combos-kids-fishing",
+						"categoryId": 158,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/combos-kids-fishing",
+						"title": "Kids",
+						"description": "This is a description about the Kids Fishing Combos subcategory",
+						"keywords": ["Kids Fishing Combos", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "baits-&-lures",
+				"categoryId": 159,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/baits-&-lures",
+				"title": "Baits & Lures",
+				"description": "This is a description about the Baits & Lures category",
+				"keywords": ["Baits & Lures", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "hard-baits",
+						"categoryId": 160,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hard-baits",
+						"title": "Hard Baits",
+						"description": "This is a description about the Hard Baits subcategory",
+						"keywords": ["Hard Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "soft-plastic-baits",
+						"categoryId": 161,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/soft-plastic-baits",
+						"title": "Soft Plastic Baits",
+						"description": "This is a description about the Soft Plastic Baits subcategory",
+						"keywords": ["Soft Plastic Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "saltwater-lures",
+						"categoryId": 162,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/saltwater-lures",
+						"title": "Saltwater Lures",
+						"description": "This is a description about the Saltwater Lures subcategory",
+						"keywords": ["Saltwater Lures", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "jar-baits",
+						"categoryId": 163,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/jar-baits",
+						"title": "Jar Baits",
+						"description": "This is a description about the Jar Baits subcategory",
+						"keywords": ["Jar Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "spinner-baits",
+						"categoryId": 164,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spinner-baits",
+						"title": "Spinner Baits",
+						"description": "This is a description about the Spinner Baits subcategory",
+						"keywords": ["Spinner Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "inline-spinner-baits",
+						"categoryId": 165,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/inline-spinner-baits",
+						"title": "Inline Spinners",
+						"description": "This is a description about the Inline Spinners subcategory",
+						"keywords": ["Inline Spinners", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "spoon-baits",
+						"categoryId": 166,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spoon-baits",
+						"title": "Spoons",
+						"description": "This is a description about the Spoons subcategory",
+						"keywords": ["Spoons", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "buzz-baits",
+						"categoryId": 167,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/buzz-baits",
+						"title": "Buzz Baits",
+						"description": "This is a description about the Buzz Baits subcategory",
+						"keywords": ["Buzz Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "jigs-and-jigheads",
+						"categoryId": 168,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/jigs-and-jigheads",
+						"title": "Jigs & Jigheads",
+						"description": "This is a description about the Jigs & Jigheads subcategory",
+						"keywords": ["Jigs & Jigheads", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "panfish-lures",
+						"categoryId": 169,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/panfish-lures",
+						"title": "Panfish Lures",
+						"description": "This is a description about the Panfish Lures subcategory",
+						"keywords": ["Panfish Lures", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rigs",
+						"categoryId": 170,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rigs",
+						"title": "Rigs",
+						"description": "This is a description about the Rigs subcategory",
+						"keywords": ["Rigs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "flies",
+						"categoryId": 171,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/flies",
+						"title": "Flies",
+						"description": "This is a description about the Flies subcategory",
+						"keywords": ["Flies", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-baits",
+						"categoryId": 172,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-baits",
+						"title": "Ice Fishing",
+						"description": "This is a description about the Ice Fishing Baits subcategory",
+						"keywords": ["Ice Fishing Baits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "attractant-baits",
+						"categoryId": 173,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/attractant-baits",
+						"title": "Attractants",
+						"description": "This is a description about the Attractant Baits subcategory",
+						"keywords": ["Attractant Baits", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "fishing-line",
+				"categoryId": 174,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/fishing-line",
+				"title": "Fishing Line",
+				"description": "This is a description about the Fishing Line category",
+				"keywords": ["Fishing Line", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "braided-line",
+						"categoryId": 175,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/braided-line",
+						"title": "Braided",
+						"description": "This is a description about the Braided Line subcategory",
+						"keywords": ["Braided Line", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fluorocarbon-line",
+						"categoryId": 176,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fluorocarbon-line",
+						"title": "Fluorocarbon",
+						"description": "This is a description about the Fluorocarbon Line subcategory",
+						"keywords": ["Fluorocarbon Line", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "monofilament-line",
+						"categoryId": 177,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/monofilament-line",
+						"title": "Monofilament",
+						"description": "This is a description about the Monofilament Line subcategory",
+						"keywords": ["Monofilament Line", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-line",
+						"categoryId": 178,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-line",
+						"title": "Fly Line",
+						"description": "This is a description about the Fly Line subcategory",
+						"keywords": ["Fly Line", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "leaders",
+						"categoryId": 179,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/leaders",
+						"title": "Leaders",
+						"description": "This is a description about the Leaders subcategory",
+						"keywords": ["Leaders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-line",
+						"categoryId": 180,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-line",
+						"title": "Ice Fishing",
+						"description": "This is a description about the Ice Fishing Line subcategory",
+						"keywords": ["Ice Fishing Line", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "terminal-tackle",
+				"categoryId": 181,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/terminal-tackle",
+				"title": "Terminal Tackle",
+				"description": "This is a description about the Terminal Tackle category",
+				"keywords": ["Terminal Tackle", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "hooks",
+						"categoryId": 182,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hooks",
+						"title": "Hooks",
+						"description": "This is a description about the Hooks subcategory",
+						"keywords": ["Hooks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "weights",
+						"categoryId": 183,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/weights",
+						"title": "Weights",
+						"description": "This is a description about the Weights subcategory",
+						"keywords": ["Weights", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "floats",
+						"categoryId": 184,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/floats",
+						"title": "Floats",
+						"description": "This is a description about the Floats subcategory",
+						"keywords": ["Floats", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "snaps-and-swivels",
+						"categoryId": 185,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/snaps-and-swivels",
+						"title": "Snaps & Swivels",
+						"description": "This is a description about the Snaps & Swivels subcategory",
+						"keywords": ["Snaps & Swivels", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "tackle-storage",
+				"categoryId": 186,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/tackle-storage",
+				"title": "Tackle Storage",
+				"description": "This is a description about the Tackle Storage category",
+				"keywords": ["Tackle Storage", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "tackle-bags",
+						"categoryId": 187,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tackle-bags",
+						"title": "Bags",
+						"description": "This is a description about the Tackle Bags subcategory",
+						"keywords": ["Tackle Bags", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tackle-boxes",
+						"categoryId": 188,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tackle-boxes",
+						"title": "Boxes",
+						"description": "This is a description about the Tackle Boxes subcategory",
+						"keywords": ["Tackle Boxes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tackle-waist-packs",
+						"categoryId": 189,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tackle-waist-packs",
+						"title": "Waist Packs",
+						"description": "This is a description about the Tackle Waist Packs subcategory",
+						"keywords": ["Tackle Waist Packs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tackle-utility-boxes",
+						"categoryId": 190,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tackle-utility-boxes",
+						"title": "Utility Boxes",
+						"description": "This is a description about the Tackle Utility Boxes subcategory",
+						"keywords": ["Tackle Utility Boxes", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "waders-&-vests",
+				"categoryId": 191,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/waders-&-vests",
+				"title": "Waders & Vests",
+				"description": "This is a description about the Waders & Vests category",
+				"keywords": ["Waders & Vests", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "chest-waders",
+						"categoryId": 192,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/chest-waders",
+						"title": "Chest Waders",
+						"description": "This is a description about the Chest Waders subcategory",
+						"keywords": ["Chest Waders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hip-waders",
+						"categoryId": 193,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hip-waders",
+						"title": "Hip Waders",
+						"description": "This is a description about the Hip Waders subcategory",
+						"keywords": ["Hip Waders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "waist-high-waders",
+						"categoryId": 194,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/waist-high-waders",
+						"title": "Waist High Waders",
+						"description": "This is a description about the Waist High Waders subcategory",
+						"keywords": ["Waist High Waders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-vests",
+						"categoryId": 195,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-vests",
+						"title": "Vests",
+						"description": "This is a description about the Fishing Vests subcategory",
+						"keywords": ["Fishing Vests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-jackets",
+						"categoryId": 196,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-jackets",
+						"title": "Jackets",
+						"description": "This is a description about the Fishing Jackets subcategory",
+						"keywords": ["Fishing Jackets", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "wader-and-vest-accessories",
+						"categoryId": 197,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/wader-and-vest-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Wader & Vest Accessories subcategory",
+						"keywords": ["Wader & Vest Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "fishing-electronics",
+				"categoryId": 198,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/fishing-electronics",
+				"title": "Electronics",
+				"description": "This is a description about the Electronics category",
+				"keywords": ["Electronics", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "fishing-accessories",
+				"categoryId": 199,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/fishing-accessories",
+				"title": "Fishing Accessories",
+				"description": "This is a description about the Fishing Accessories category",
+				"keywords": ["Fishing Accessories", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "tools-pliers-and-gaffs",
+						"categoryId": 200,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tools-pliers-and-gaffs",
+						"title": "Tools, Pliers & Gaffs",
+						"description": "This is a description about the Tools, Pliers & Gaffs subcategory",
+						"keywords": ["Tools, Pliers & Gaffs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "scales-rulers-and-lip-grippers",
+						"categoryId": 201,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/scales-rulers-and-lip-grippers",
+						"title": "Scales, Rulers & Lip Grippers",
+						"description": "This is a description about the Scales, Rulers & Lip Grippers subcategory",
+						"keywords": ["Scales, Rulers & Lip Grippers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bait-and-fillet-knives",
+						"categoryId": 202,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bait-and-fillet-knives",
+						"title": "Bait & Fillet Knives",
+						"description": "This is a description about the Bait & Fillet Knives subcategory",
+						"keywords": ["Bait & Fillet Knives", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-nets",
+						"categoryId": 203,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-nets",
+						"title": "Nets",
+						"description": "This is a description about the Fishing Nets subcategory",
+						"keywords": ["Fishing Nets", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-lighting",
+						"categoryId": 204,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-lighting",
+						"title": "Lighting",
+						"description": "This is a description about the Fishing Lighting subcategory",
+						"keywords": ["Fishing Lighting", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-gloves",
+						"categoryId": 205,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-gloves",
+						"title": "Gloves",
+						"description": "This is a description about the Fishing Gloves subcategory",
+						"keywords": ["Fishing Gloves", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bait-buckets-and-aeration",
+						"categoryId": 206,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bait-buckets-and-aeration",
+						"title": "Bait Buckets & Aeration",
+						"description": "This is a description about the Bait Buckets & Aeration subcategory",
+						"keywords": ["Bait Buckets & Aeration", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-carts",
+						"categoryId": 207,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-carts",
+						"title": "Carts",
+						"description": "This is a description about the Fishing Carts subcategory",
+						"keywords": ["Fishing Carts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fishing-rod-racks",
+						"categoryId": 208,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fishing-rod-racks",
+						"title": "Rod Racks",
+						"description": "This is a description about the Fishing Rod Racks subcategory",
+						"keywords": ["Fishing Rod Racks", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "fly-fishing",
+				"categoryId": 209,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/fly-fishing",
+				"title": "Fly Fishing",
+				"description": "This is a description about the Fly Fishing category",
+				"keywords": ["Fly Fishing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "fly-fishing-combos",
+						"categoryId": 210,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-combos",
+						"title": "Combos",
+						"description": "This is a description about the Fly Fishing Combos subcategory",
+						"keywords": ["Fly Fishing Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-fishing-reels",
+						"categoryId": 211,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-reels",
+						"title": "Reels",
+						"description": "This is a description about the Fly Fishing Reels subcategory",
+						"keywords": ["Fly Fishing Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-fishing-rods",
+						"categoryId": 212,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-rods",
+						"title": "Rods",
+						"description": "This is a description about the Fly Fishing Rods subcategory",
+						"keywords": ["Fly Fishing Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-fishing-line-leaders-and-tippet",
+						"categoryId": 213,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-line-leaders-and-tippet",
+						"title": "Line, Leader & Tippet",
+						"description": "This is a description about the Fly Fishing Line, Leader & Tippet subcategory",
+						"keywords": ["Fly Fishing Line, Leader & Tippet", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-fishing-flies",
+						"categoryId": 214,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-flies",
+						"title": "Flies",
+						"description": "This is a description about the Fly Fishing Flies subcategory",
+						"keywords": ["Fly Fishing Flies", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-tying",
+						"categoryId": 215,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-tying",
+						"title": "Fly Tying",
+						"description": "This is a description about the Fly Tying subcategory",
+						"keywords": ["Fly Tying", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "float-tubes-and-pontoons",
+						"categoryId": 216,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/float-tubes-and-pontoons",
+						"title": "Float Tubes & Pontoons",
+						"description": "This is a description about the Float Tubes & Pontoons subcategory",
+						"keywords": ["Float Tubes & Pontoons", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fly-fishing-accessories",
+						"categoryId": 217,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fly-fishing-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Fly Fishing Accessories subcategory",
+						"keywords": ["Fly Fishing Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "ice-fishing",
+				"categoryId": 218,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/ice-fishing",
+				"title": "Ice Fishing",
+				"description": "This is a description about the Ice Fishing category",
+				"keywords": ["Ice Fishing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "ice-fishing-reels",
+						"categoryId": 219,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-reels",
+						"title": "Reels",
+						"description": "This is a description about the Ice Fishing Reels subcategory",
+						"keywords": ["Ice Fishing Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-rods",
+						"categoryId": 220,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-rods",
+						"title": "Rods",
+						"description": "This is a description about the Ice Fishing Rods subcategory",
+						"keywords": ["Ice Fishing Rods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-combos",
+						"categoryId": 221,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-combos",
+						"title": "Combos",
+						"description": "This is a description about the Ice Fishing Combos subcategory",
+						"keywords": ["Ice Fishing Combos", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-augers",
+						"categoryId": 222,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-augers",
+						"title": "Augers",
+						"description": "This is a description about the Ice Fishing Augers subcategory",
+						"keywords": ["Ice Fishing Augers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-shelters",
+						"categoryId": 223,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-shelters",
+						"title": "Shelters",
+						"description": "This is a description about the Ice Fishing Shelters subcategory",
+						"keywords": ["Ice Fishing Shelters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-sleds",
+						"categoryId": 224,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-sleds",
+						"title": "Sleds",
+						"description": "This is a description about the Ice Fishing Sleds subcategory",
+						"keywords": ["Ice Fishing Sleds", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "ice-fishing-accessories",
+						"categoryId": 225,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/ice-fishing-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Ice Fishing Accessories subcategory",
+						"keywords": ["Ice Fishing Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "bowfishing",
+				"categoryId": 226,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/bowfishing",
+				"title": "Bowfishing",
+				"description": "This is a description about the Bowfishing category",
+				"keywords": ["Bowfishing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "bowfishing-bows-and-kits",
+						"categoryId": 227,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bowfishing-bows-and-kits",
+						"title": "Bows & Kits",
+						"description": "This is a description about the Bowfishing Bows & Kits subcategory",
+						"keywords": ["Bowfishing Bows & Kits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bowfishing-reels",
+						"categoryId": 228,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bowfishing-reels",
+						"title": "Reels",
+						"description": "This is a description about the Bowfishing Reels subcategory",
+						"keywords": ["Bowfishing Reels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bowfishing-arrows-and-points",
+						"categoryId": 229,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bowfishing-arrows-and-points",
+						"title": "Arrows & Points",
+						"description": "This is a description about the Bowfishing Arrows & Points subcategory",
+						"keywords": ["Bowfishing Arrows & Points", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bowfishing-accessories",
+						"categoryId": 230,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bowfishing-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Ice Bowfishing Accessories subcategory",
+						"keywords": ["Bowfishing Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "family-fishing",
+				"categoryId": 231,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/family-fishing",
+				"title": "Family Fishing",
+				"description": "This is a description about the Family Fishing category",
+				"keywords": ["Family Fishing", "Keyword", "Another Keyword"],
+				"children": []
+			}
+		]
+	},
+	{
+		"state": "boating",
+		"categoryId": 232,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/boating",
+		"title": "Boating",
+		"description": "This is a description about the Boating top-level department",
+		"keywords": ["Boats", "Canoes", "Kayaks", "Paddles", "Oars", "Roof Racks"],
+		"children": [
+			{
+				"state": "canoes-&-kayaks",
+				"categoryId": 233,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/canoes-&-kayaks",
+				"title": "Canoes & Kayaks",
+				"description": "This is a description about the Canoes & Kayaks category",
+				"keywords": ["Canoes & Kayaks", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "kayaks",
+						"categoryId": 234,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kayaks",
+						"title": "Kayaks",
+						"description": "This is a description about the Kayaks subcategory",
+						"keywords": ["Kayaks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "canoes",
+						"categoryId": 235,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/canoes",
+						"title": "Canoes",
+						"description": "This is a description about the Canoes subcategory",
+						"keywords": ["Canoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "paddles-and-oars",
+						"categoryId": 236,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/paddles-and-oars",
+						"title": "Paddles & Oars",
+						"description": "This is a description about the Paddles & Oars subcategory",
+						"keywords": ["Paddles & Oars", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "canoe-and-kayak-seats",
+						"categoryId": 237,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/seats",
+						"title": "Seats",
+						"description": "This is a description about the Canoe & Kayak Seats subcategory",
+						"keywords": ["Canoe & Kayak Seats", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "life-jackets-&-safety",
+				"categoryId": 238,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/life-jackets-&-safety",
+				"title": "Life Jackets & Safety",
+				"description": "This is a description about the Life Jackets & Safety category",
+				"keywords": ["Life Jackets & Safety", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "jackets-and-vests",
+						"categoryId": 239,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/jackets-and-vests",
+						"title": "Jackets & Vests",
+						"description": "This is a description about the Jackets & Vests subcategory",
+						"keywords": ["Jackets & Vests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "safety-accessories",
+						"categoryId": 240,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/safety-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Accessories subcategory",
+						"keywords": ["Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "marine",
+				"categoryId": 241,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/marine",
+				"title": "Marine",
+				"description": "This is a description about the Marine category",
+				"keywords": ["Marine", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "anchors-and-docking",
+						"categoryId": 242,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/anchors-and-docking",
+						"title": "Anchors & Docking",
+						"description": "This is a description about the Anchors & Docking subcategory",
+						"keywords": ["Anchors & Docking", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "batteries-and-chargers",
+						"categoryId": 243,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/batteries-and-chargers",
+						"title": "Batteries & Chargers",
+						"description": "This is a description about the Batteries & Chargers subcategory",
+						"keywords": ["Batteries & Chargers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boat-covers-tops-and-shades",
+						"categoryId": 244,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boat-covers-tops-and-shades",
+						"title": "Boat Covers, Tops & Shades",
+						"description": "This is a description about the Boat Covers, Tops & Shades subcategory",
+						"keywords": ["Boat Covers, Tops & Shades", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boat-seats-and-furniture",
+						"categoryId": 245,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boat-seats-and-furniture",
+						"title": "Boat Seats & Furniture",
+						"description": "This is a description about the Boat Seats & Furniture subcategory",
+						"keywords": ["Boat Seats & Furniture", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "marine-electronics",
+						"categoryId": 246,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/marine-electronics",
+						"title": "Marine Electronics",
+						"description": "This is a description about the Marine Electronics subcategory",
+						"keywords": ["Marine Electronics", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "instruments-and-navigation",
+						"categoryId": 247,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/instruments-and-navigation",
+						"title": "Instruments & Navigation",
+						"description": "This is a description about the Instruments & Navigation subcategory",
+						"keywords": ["Instruments & Navigation", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boat-lighting",
+						"categoryId": 248,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boat-lighting",
+						"title": "Boat Lighting",
+						"description": "This is a description about the Boat Lighting subcategory",
+						"keywords": ["Boat Lighting", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boating-hardware",
+						"categoryId": 249,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boating-hardware",
+						"title": "Boating Hardware",
+						"description": "This is a description about the Boating Hardware subcategory",
+						"keywords": ["Boating Hardware", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "outboards-and-accessories",
+						"categoryId": 250,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/outboards-and-accessories",
+						"title": "Outboards & Accessories",
+						"description": "This is a description about the Outboards & Accessories subcategory",
+						"keywords": ["Outboards & Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "trolling-motors-and-accessories",
+						"categoryId": 251,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/trolling-motors-and-accessories",
+						"title": "Trolling Motors & Accessories",
+						"description": "This is a description about the Trolling Motors & Accessories subcategory",
+						"keywords": ["Trolling Motors & Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "racks-&-carts",
+				"categoryId": 252,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/racks-&-carts",
+				"title": "Racks & Carts",
+				"description": "This is a description about the Racks & Carts category",
+				"keywords": ["Racks & Carts", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "boating-racks",
+						"categoryId": 253,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boating-racks",
+						"title": "Racks",
+						"description": "This is a description about the Racks subcategory",
+						"keywords": ["Racks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boating-carts",
+						"categoryId": 254,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boating-carts",
+						"title": "Carts",
+						"description": "This is a description about the Carts subcategory",
+						"keywords": ["Carts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rack-and-cart-accessories",
+						"categoryId": 255,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rack-and-cart-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Racks & Carts Accessories subcategory",
+						"keywords": ["Racks & Carts Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "boating-accessories",
+				"categoryId": 256,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/boating-accessories",
+				"title": "Accessories",
+				"description": "This is a description about the Accessories category",
+				"keywords": ["Accessories", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "oar-locks",
+						"categoryId": 257,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/oar-locks",
+						"title": "Oar Locks",
+						"description": "This is a description about the Oar Locks subcategory",
+						"keywords": ["Oar Locks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "bilge-pumps",
+						"categoryId": 258,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/bilge-pumps",
+						"title": "Bilge Pumps",
+						"description": "This is a description about the Bilge Pumps subcategory",
+						"keywords": ["Bilge Pumps", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "push-poles",
+						"categoryId": 259,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/push-poles",
+						"title": "Push Poles",
+						"description": "This is a description about the Push Poles subcategory",
+						"keywords": ["Push Poles", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hatch-covers",
+						"categoryId": 260,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hatch-covers",
+						"title": "Hatch Covers",
+						"description": "This is a description about the Hatch Covers subcategory",
+						"keywords": ["Hatch Covers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "dry-bags",
+						"categoryId": 261,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/dry-bags",
+						"title": "Dry Bags",
+						"description": "This is a description about the Dry Bags subcategory",
+						"keywords": ["Dry Bags", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "anchors",
+						"categoryId": 262,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/anchors",
+						"title": "Anchors",
+						"description": "This is a description about the Anchors subcategory",
+						"keywords": ["Anchors", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rafts-and-towables",
+						"categoryId": 263,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rafts-and-towables",
+						"title": "Rafts & Towables",
+						"description": "This is a description about the Rafts & Towables subcategory",
+						"keywords": ["Rafts & Towables", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boating-leashes",
+						"categoryId": 264,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boating-leashes",
+						"title": "Leashes",
+						"description": "This is a description about the Leashes subcategory",
+						"keywords": ["Leashes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "rod-holders",
+						"categoryId": 265,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/rod-holders",
+						"title": "Rod Holders",
+						"description": "This is a description about the Rod Holders subcategory",
+						"keywords": ["Rod Holders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "boating-accessories-other",
+						"categoryId": 266,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/boating-accessories-other",
+						"title": "Other",
+						"description": "This is a description about the Boating Accessories Other subcategory",
+						"keywords": ["Boating Accessories Other", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "camping",
+		"categoryId": 267,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/camping",
+		"title": "Camping",
+		"description": "This is a description about the Camping top-level department",
+		"keywords": ["Camping", "Outdoors", "Tents", "Sleeping Bags"],
+		"children": [
+			{
+				"state": "tents-&-canopies",
+				"categoryId": 268,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/tents-&-canopies",
+				"title": "Tents & Canopies",
+				"description": "This is a description about the Tents & Canopies category",
+				"keywords": ["Tents & Canopies", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "camping-tents",
+						"categoryId": 269,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tents",
+						"title": "Tents",
+						"description": "This is a description about the Tents subcategory",
+						"keywords": ["Tents", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "camping-canopies",
+						"categoryId": 270,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/canopies",
+						"title": "Canopies",
+						"description": "This is a description about the Canopies subcategory",
+						"keywords": ["Canopies", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tent-and-canopy-accessories",
+						"categoryId": 271,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tent-and-canopy-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Tent & Canopy Accessories subcategory",
+						"keywords": ["Tent & Canopy Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "sleeping-bags",
+				"categoryId": 272,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/sleeping-bags",
+				"title": "Sleeping Bags",
+				"description": "This is a description about the Sleeping Bags category",
+				"keywords": ["Sleeping Bags", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "beds-&-sleeping-pads",
+				"categoryId": 273,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/beds-&-sleeping-pads",
+				"title": "Beds & Sleeping Pads",
+				"description": "This is a description about the Beds & Sleeping Pads category",
+				"keywords": ["Beds & Sleeping Pads", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "sleeping-pads",
+						"categoryId": 274,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/sleeping-pads",
+						"title": "Pads",
+						"description": "This is a description about the Sleeping Pads subcategory",
+						"keywords": ["Sleeping Pads", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "sleeping-cots",
+						"categoryId": 275,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/sleeping-cots",
+						"title": "Cots",
+						"description": "This is a description about the Sleeping Cots subcategory",
+						"keywords": ["Sleeping Cots", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "sleeping-hammocks",
+						"categoryId": 276,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hammocks",
+						"title": "Hammocks",
+						"description": "This is a description about the Hammocks subcategory",
+						"keywords": ["Hammocks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "air-mattresses",
+						"categoryId": 277,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/air-mattresses",
+						"title": "Air Mattresses",
+						"description": "This is a description about the Air Mattresses subcategory",
+						"keywords": ["Air Mattresses", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "air-pumps",
+						"categoryId": 278,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/air-pumps",
+						"title": "Air Pumps",
+						"description": "This is a description about the Air Pumps subcategory",
+						"keywords": ["Air Pumps", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "pillows-and-blankets",
+						"categoryId": 279,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/pillows-and-blankets",
+						"title": "Pillows & Blankets",
+						"description": "This is a description about the Pillows & Blankets subcategory",
+						"keywords": ["Pillows & Blankets", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "backpacks-&-luggage",
+				"categoryId": 280,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/backpacks-&-luggage",
+				"title": "Backpacks & Luggage",
+				"description": "This is a description about the Backpacks & Luggage category",
+				"keywords": ["Backpacks & Luggage", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "hiking-backpacks",
+						"categoryId": 281,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hiking-backpacks",
+						"title": "Hiking Backpads",
+						"description": "This is a description about the Hiking Backpads subcategory",
+						"keywords": ["Hiking Backpads", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hiking-daypacks",
+						"categoryId": 282,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/daypacks",
+						"title": "Daypacks",
+						"description": "This is a description about the Daypacks subcategory",
+						"keywords": ["Daypacks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hunting-backpacks",
+						"categoryId": 283,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hunting-backpacks",
+						"title": "Hunting Backpacks",
+						"description": "This is a description about the Hunting Backpacks subcategory",
+						"keywords": ["Hunting Backpacks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hiking-hydration-packs",
+						"categoryId": 284,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hydration-packs",
+						"title": "Hydration Packs",
+						"description": "This is a description about the Hydration Packs subcategory",
+						"keywords": ["Hydration Packs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "waist-packs",
+						"categoryId": 285,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/waist-packs",
+						"title": "Waist Packs",
+						"description": "This is a description about the Waist Packs subcategory",
+						"keywords": ["Waist Packs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "stuff-sacks-and-duffels",
+						"categoryId": 286,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/stuff-sacks-and-duffels",
+						"title": "Stuff Sacks & Duffels",
+						"description": "This is a description about the Stuff Sacks & Duffels subcategory",
+						"keywords": ["Stuff Sacks & Duffels", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "luggage",
+						"categoryId": 287,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/luggage",
+						"title": "Luggage",
+						"description": "This is a description about the Luggage subcategory",
+						"keywords": ["Luggage", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "camp-stoves-&-cooking",
+				"categoryId": 288,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/camp-stoves-&-cooking",
+				"title": "Camp Stoves & Cooking",
+				"description": "This is a description about the Camp Stoves & Cooking category",
+				"keywords": ["Camp Stoves & Cooking", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "stoves-and-grills",
+						"categoryId": 289,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/stoves-and-grills",
+						"title": "Stoves & Grills",
+						"description": "This is a description about the Stoves & Grills subcategory",
+						"keywords": ["Stoves & Grills", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "cookware",
+						"categoryId": 290,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/cookware",
+						"title": "Cookware",
+						"description": "This is a description about the Cookware subcategory",
+						"keywords": ["Cookware", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "camp-food",
+						"categoryId": 291,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/camp-food",
+						"title": "Camp Food",
+						"description": "This is a description about the Camp Food subcategory",
+						"keywords": ["Camp Food", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "food-prep-tables",
+						"categoryId": 292,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/food-prep-tables",
+						"title": "Food Prep Tables",
+						"description": "This is a description about the Food Prep Tables subcategory",
+						"keywords": ["Food Prep Tables", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "camp-furniture",
+				"categoryId": 293,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/camp-furniture",
+				"title": "Camp Furniture",
+				"description": "This is a description about the Camp Furniture category",
+				"keywords": ["Camp Furniture", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "chairs",
+						"categoryId": 294,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/chairs",
+						"title": "Chairs",
+						"description": "This is a description about the Chairs subcategory",
+						"keywords": ["Chairs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "tables",
+						"categoryId": 295,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/tables",
+						"title": "Tables",
+						"description": "This is a description about the Tables subcategory",
+						"keywords": ["Tables", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "camp-kitchens",
+						"categoryId": 296,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/camp-kitchens",
+						"title": "Camp Kitchens",
+						"description": "This is a description about the Camp Kitchens subcategory",
+						"keywords": ["Camp Kitchens", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "coolers",
+				"categoryId": 297,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/coolers",
+				"title": "Coolers",
+				"description": "This is a description about the Coolers category",
+				"keywords": ["Coolers", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "hydration",
+				"categoryId": 298,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/hydration",
+				"title": "Hydration",
+				"description": "This is a description about the Hydration category",
+				"keywords": ["Hydration", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "hydration-packs",
+						"categoryId": 299,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hydration-packs",
+						"title": "Hydration Packs",
+						"description": "This is a description about the Hydration Packs subcategory",
+						"keywords": ["Hydration Packs", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "water-bottles",
+						"categoryId": 300,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/water-bottles",
+						"title": "Water Bottles",
+						"description": "This is a description about the Water Bottles subcategory",
+						"keywords": ["Water Bottles", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "hydration-bladders",
+						"categoryId": 301,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/hydration-bladders",
+						"title": "Bladders",
+						"description": "This is a description about the Bladders subcategory",
+						"keywords": ["Bladders", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "water-purification",
+						"categoryId": 302,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/water-purification",
+						"title": "Water Purification",
+						"description": "This is a description about the Water Purification subcategory",
+						"keywords": ["Water Purification", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "lighting-&-lanterns",
+				"categoryId": 303,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/lighting-&-lanterns",
+				"title": "Lighting & Lanterns",
+				"description": "This is a description about the Lighting & Lanterns category",
+				"keywords": ["Lighting & Lanterns", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "flashlights",
+						"categoryId": 304,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/flashlights",
+						"title": "Flashlights",
+						"description": "This is a description about the Flashlights subcategory",
+						"keywords": ["Flashlights", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "headlamps",
+						"categoryId": 305,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/headlamps",
+						"title": "Headlamps",
+						"description": "This is a description about the Headlamps subcategory",
+						"keywords": ["Headlamps", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "lanterns",
+						"categoryId": 306,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/lanterns",
+						"title": "Lanterns",
+						"description": "This is a description about the Lanterns subcategory",
+						"keywords": ["Lanterns", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "lighting-spotlights",
+						"categoryId": 307,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/spotlights",
+						"title": "Spotlights",
+						"description": "This is a description about the Spotlights subcategory",
+						"keywords": ["Spotlights", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "camping-electronics",
+				"categoryId": 308,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/camping-electronics",
+				"title": "Electronics",
+				"description": "This is a description about the Camping Electronics category",
+				"keywords": ["Camping Electronics", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "camping-cameras",
+						"categoryId": 309,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/cameras",
+						"title": "Cameras",
+						"description": "This is a description about the Cameras subcategory",
+						"keywords": ["Cameras", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "camping-two-way-radios",
+						"categoryId": 310,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/two-way-radios",
+						"title": "Two-Way Radios",
+						"description": "This is a description about the Two-Way Radios subcategory",
+						"keywords": ["Two-Way Radios", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "camping-gps",
+						"categoryId": 311,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/gps",
+						"title": "GPS",
+						"description": "This is a description about the GPS subcategory",
+						"keywords": ["GPS", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "solar-equipment",
+						"categoryId": 312,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/solar-equipment",
+						"title": "Solar Equipment",
+						"description": "This is a description about the Solar Equipment subcategory",
+						"keywords": ["Solar Equipment", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "metal-detectors-and-prospecting-kits",
+						"categoryId": 313,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/metal-detectors-and-prospecting-kits",
+						"title": "Metal Detectors & Prospecting Kits",
+						"description": "This is a description about the Metal Detectors & Prospecting Kits subcategory",
+						"keywords": ["Metal Detectors & Prospecting Kits", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "first-aid-&-survival",
+				"categoryId": 314,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/first-aid-&-survival",
+				"title": "First Aid & Survival",
+				"description": "This is a description about the First Aid & Survival category",
+				"keywords": ["First Aid & Survival", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "survival-first-aid-kits",
+						"categoryId": 315,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/first-aid-kits",
+						"title": "First Aid Kits",
+						"description": "This is a description about the First Aid Kits subcategory",
+						"keywords": ["First Aid Kits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "weather-radios",
+						"categoryId": 316,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/weather-radios",
+						"title": "Weather Radios",
+						"description": "This is a description about the Weather Radios subcategory",
+						"keywords": ["Weather Radios", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "emergency-kits",
+						"categoryId": 317,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/emergency-kits",
+						"title": "Emergency Kits",
+						"description": "This is a description about the Emergency Kits subcategory",
+						"keywords": ["Emergency Kits", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "emergency-foods",
+						"categoryId": 318,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/emergency-foods",
+						"title": "Emergency Foods",
+						"description": "This is a description about the Emergency Foods subcategory",
+						"keywords": ["Emergency Foods", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "insect-repellant-and-skincare",
+						"categoryId": 319,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/insect-repellant-and-skincare",
+						"title": "Insect Repellant & Skincare",
+						"description": "This is a description about the Insect Repellant & Skincare subcategory",
+						"keywords": ["Insect Repellant & Skincare", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "pepper-spray",
+						"categoryId": 320,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/pepper-spray",
+						"title": "Pepper Spray",
+						"description": "This is a description about the Pepper Spray subcategory",
+						"keywords": ["Pepper Spray", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "generators",
+						"categoryId": 321,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/generators",
+						"title": "Generators",
+						"description": "This is a description about the Generators subcategory",
+						"keywords": ["Generators", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "fire-starters",
+						"categoryId": 322,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fire-starters",
+						"title": "Fire Starters",
+						"description": "This is a description about the Fire Starters subcategory",
+						"keywords": ["Fire Starters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "emergency-stoves-and-heaters",
+						"categoryId": 323,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/emergency-stoves-and-heaters",
+						"title": "Emergency Stoves & Heaters",
+						"description": "This is a description about the Emergency Stoves & Heaters subcategory",
+						"keywords": ["Emergency Stoves & Heaters", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "survival-accessories",
+						"categoryId": 324,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/survival-accessories",
+						"title": "Accessories",
+						"description": "This is a description about the Accessories subcategory",
+						"keywords": ["Accessories", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "camping-accessories",
+				"categoryId": 325,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/camping-accessories",
+				"title": "Camping Accessories",
+				"description": "This is a description about the Camping Accessories category",
+				"keywords": ["Camping Accessories", "Keyword", "Another Keyword"],
+				"children": []
+			}
+		]
+	},
+	{
+		"state": "clothing",
+		"categoryId": 326,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/clothing",
+		"title": "Clothing",
+		"description": "This is a description about the Clothing top-level department",
+		"keywords": ["Sweatshirts", "Sweatpants", "Vests", "Jackets", "Pants", "Shorts", "Shirts"],
+		"children": [
+			{
+				"state": "mens-clothing",
+				"categoryId": 327,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/mens-clothing",
+				"title": "Men's Clothing",
+				"description": "This is a description about the Men's Clothing category",
+				"keywords": ["Men's Clothing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "mens-shirts",
+						"categoryId": 328,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-shirts",
+						"title": "Shirts",
+						"description": "This is a description about the Men's Shirts subcategory",
+						"keywords": ["Men's Shirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-hoodies-and-sweatshirts",
+						"categoryId": 329,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-hoodies-and-sweatshirts",
+						"title": "Hoodies & Sweatshirts",
+						"description": "This is a description about the Men's Hoodies & Sweatshirts subcategory",
+						"keywords": ["Men's Hoodies & Sweatshirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-jackets-and-vests",
+						"categoryId": 330,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-jackets-and-vests",
+						"title": "Jackets & Vests",
+						"description": "This is a description about the Men's Jackets & Vests subcategory",
+						"keywords": ["Men's Jackets & Vests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-pants",
+						"categoryId": 331,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-pants",
+						"title": "Pants",
+						"description": "This is a description about the Men's Pants subcategory",
+						"keywords": ["Men's Pants", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-shorts",
+						"categoryId": 332,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-shorts",
+						"title": "Shorts",
+						"description": "This is a description about the Men's Shorts subcategory",
+						"keywords": ["Men's Shorts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-bibs-and-coveralls",
+						"categoryId": 333,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-bibs-and-coveralls",
+						"title": "Bibs & Coveralls",
+						"description": "This is a description about the Men's Bibs & Coveralls subcategory",
+						"keywords": ["Men's Bibs & Coveralls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-base-layer",
+						"categoryId": 334,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-base-layer",
+						"title": "Base Layer",
+						"description": "This is a description about the Men's Base Layer subcategory",
+						"keywords": ["Men's Base Layer", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-rainwear",
+						"categoryId": 335,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-rainwear",
+						"title": "Rainwear",
+						"description": "This is a description about the Men's Rainwear subcategory",
+						"keywords": ["Men's Rainwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-hats-and-facemasks",
+						"categoryId": 336,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-hats-and-facemasks",
+						"title": "Hats & Facemasks",
+						"description": "This is a description about the Men's Hats & Facemasks subcategory",
+						"keywords": ["Men's Hats & Facemasks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-gloves",
+						"categoryId": 337,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-gloves",
+						"title": "Gloves",
+						"description": "This is a description about the Men's Gloves subcategory",
+						"keywords": ["Men's Gloves", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-socks",
+						"categoryId": 338,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-socks",
+						"title": "Socks",
+						"description": "This is a description about the Men's Socks subcategory",
+						"keywords": ["Men's Socks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-underwear",
+						"categoryId": 339,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-underwear",
+						"title": "Underwear",
+						"description": "This is a description about the Men's Underwear subcategory",
+						"keywords": ["Men's Underwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-belts",
+						"categoryId": 340,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-belts",
+						"title": "Belts",
+						"description": "This is a description about the Men's Belts subcategory",
+						"keywords": ["Men's Belts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-sunglasses",
+						"categoryId": 341,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-sunglasses",
+						"title": "Sunglasses",
+						"description": "This is a description about the Men's Sunglasses subcategory",
+						"keywords": ["Men's Sunglasses", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-watches",
+						"categoryId": 342,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-watches",
+						"title": "Watches",
+						"description": "This is a description about the Men's Watches subcategory",
+						"keywords": ["Men's Watches", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-fishing",
+						"categoryId": 343,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-fishing",
+						"title": "Fishing",
+						"description": "This is a description about the Men's Fishing subcategory",
+						"keywords": ["Men's Fishing", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-clothing-other",
+						"categoryId": 344,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-clothing-other",
+						"title": "Other",
+						"description": "This is a description about the Men's Clothing Other subcategory",
+						"keywords": ["Men's Clothing Other", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "womens-clothing",
+				"categoryId": 345,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/womens-clothing",
+				"title": "Women's Clothing",
+				"description": "This is a description about the Women's Clothing category",
+				"keywords": ["Women's Clothing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "womens-shirts",
+						"categoryId": 346,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-shirts",
+						"title": "Shirts",
+						"description": "This is a description about the Women's Shirts subcategory",
+						"keywords": ["Women's Shirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-hoodies-and-sweatshirts",
+						"categoryId": 347,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-hoodies-and-sweatshirts",
+						"title": "Hoodies & Sweatshirts",
+						"description": "This is a description about the Women's Hoodies & Sweatshirts subcategory",
+						"keywords": ["Women's Hoodies & Sweatshirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-jackets-and-vests",
+						"categoryId": 348,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-jackets-and-vests",
+						"title": "Jackets & Vests",
+						"description": "This is a description about the Women's Jackets & Vests subcategory",
+						"keywords": ["Women's Jackets & Vests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-pants",
+						"categoryId": 349,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-pants",
+						"title": "Pants",
+						"description": "This is a description about the Women's Pants subcategory",
+						"keywords": ["Women's Pants", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-shorts-and-capris",
+						"categoryId": 350,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-shorts-and-capris",
+						"title": "Shorts & Capris",
+						"description": "This is a description about the Women's Shorts & Capris subcategory",
+						"keywords": ["Women's Shorts & Capris", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-dresses-and-skirts",
+						"categoryId": 351,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-dresses-and-skirts",
+						"title": "Dresses & Skirts",
+						"description": "This is a description about the Women's Dresses & Skirts subcategory",
+						"keywords": ["Women's Dresses & Skirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-bibs-and-coveralls",
+						"categoryId": 352,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-bibs-and-coveralls",
+						"title": "Bibs & Coveralls",
+						"description": "This is a description about the Women's Bibs & Coveralls subcategory",
+						"keywords": ["Women's Bibs & Coveralls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-base-layer",
+						"categoryId": 353,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-base-layer",
+						"title": "Base Layer",
+						"description": "This is a description about the Women's Base Layer subcategory",
+						"keywords": ["Women's Base Layer", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-rainwear",
+						"categoryId": 354,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-rainwear",
+						"title": "Rainwear",
+						"description": "This is a description about the Women's Rainwear subcategory",
+						"keywords": ["Women's Rainwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-hats-and-facemasks",
+						"categoryId": 355,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-hats-and-facemasks",
+						"title": "Hats & Facemasks",
+						"description": "This is a description about the Women's Hats & Facemasks subcategory",
+						"keywords": ["Women's Hats & Facemasks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-gloves",
+						"categoryId": 356,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-gloves",
+						"title": "Gloves",
+						"description": "This is a description about the Women's Gloves subcategory",
+						"keywords": ["Women's Gloves", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-socks",
+						"categoryId": 357,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-socks",
+						"title": "Socks",
+						"description": "This is a description about the Women's Socks subcategory",
+						"keywords": ["Women's Socks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-sports-bras-and-underwear",
+						"categoryId": 358,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-sports-bras-and-underwear",
+						"title": "Sports Bras & Underwear",
+						"description": "This is a description about the Women's Sports Bras & Underwear subcategory",
+						"keywords": ["Women's Sports Bras & Underwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-belts",
+						"categoryId": 359,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-belts",
+						"title": "Belts",
+						"description": "This is a description about the Women's Belts subcategory",
+						"keywords": ["Women's Belts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-sunglasses",
+						"categoryId": 360,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-sunglasses",
+						"title": "Sunglasses",
+						"description": "This is a description about the Women's Sunglasses subcategory",
+						"keywords": ["Women's Sunglasses", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-watches",
+						"categoryId": 361,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-watches",
+						"title": "Watches",
+						"description": "This is a description about the Women's Watches subcategory",
+						"keywords": ["Women's Watches", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-fishing",
+						"categoryId": 362,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-fishing",
+						"title": "Fishing",
+						"description": "This is a description about the Women's Fishing subcategory",
+						"keywords": ["Women's Fishing", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-clothing-other",
+						"categoryId": 363,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-clothing-other",
+						"title": "Other",
+						"description": "This is a description about the Women's Clothing Other subcategory",
+						"keywords": ["Women's Clothing Other", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "kids-clothing",
+				"categoryId": 364,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/kids-clothing",
+				"title": "Kid's Clothing",
+				"description": "This is a description about the Kid's Clothing category",
+				"keywords": ["Kid's Clothing", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "kids-shirts",
+						"categoryId": 365,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-shirts",
+						"title": "Shirts",
+						"description": "This is a description about the Kid's Shirts subcategory",
+						"keywords": ["Kid's Shirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-hoodies-and-sweatshirts",
+						"categoryId": 366,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-hoodies-and-sweatshirts",
+						"title": "Hoodies & Sweatshirts",
+						"description": "This is a description about the Kid's Hoodies & Sweatshirts subcategory",
+						"keywords": ["Kid's Hoodies & Sweatshirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-jackets-and-vests",
+						"categoryId": 367,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-jackets-and-vests",
+						"title": "Jackets & Vests",
+						"description": "This is a description about the Kid's Jackets & Vests subcategory",
+						"keywords": ["Kid's Jackets & Vests", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-pants",
+						"categoryId": 368,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-pants",
+						"title": "Pants",
+						"description": "This is a description about the Kid's Pants subcategory",
+						"keywords": ["Kid's Pants", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-shorts-and-capris",
+						"categoryId": 369,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-shorts-and-capris",
+						"title": "Shorts & Capris",
+						"description": "This is a description about the Kid's Shorts & Capris subcategory",
+						"keywords": ["Kid's Shorts & Capris", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-dresses-and-skirts",
+						"categoryId": 370,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-dresses-and-skirts",
+						"title": "Dresses & Skirts",
+						"description": "This is a description about the Kid's Dresses & Skirts subcategory",
+						"keywords": ["Kid's Dresses & Skirts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-bibs-and-coveralls",
+						"categoryId": 371,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-bibs-and-coveralls",
+						"title": "Bibs & Coveralls",
+						"description": "This is a description about the Kid's Bibs & Coveralls subcategory",
+						"keywords": ["Kid's Bibs & Coveralls", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-base-layer",
+						"categoryId": 372,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-base-layer",
+						"title": "Base Layer",
+						"description": "This is a description about the Kid's Base Layer subcategory",
+						"keywords": ["Kid's Base Layer", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-rainwear",
+						"categoryId": 373,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-rainwear",
+						"title": "Rainwear",
+						"description": "This is a description about the Kid's Rainwear subcategory",
+						"keywords": ["Kid's Rainwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-hats-and-facemasks",
+						"categoryId": 374,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-hats-and-facemasks",
+						"title": "Hats & Facemasks",
+						"description": "This is a description about the Kid's Hats & Facemasks subcategory",
+						"keywords": ["Kid's Hats & Facemasks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-gloves",
+						"categoryId": 375,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-gloves",
+						"title": "Gloves",
+						"description": "This is a description about the Kid's Gloves subcategory",
+						"keywords": ["Kid's Gloves", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-socks",
+						"categoryId": 376,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-socks",
+						"title": "Socks",
+						"description": "This is a description about the Kid's Socks subcategory",
+						"keywords": ["Kid's Socks", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-sports-bras-and-underwear",
+						"categoryId": 377,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-sports-bras-and-underwear",
+						"title": "Sports Bras & Underwear",
+						"description": "This is a description about the Kid's Sports Bras & Underwear subcategory",
+						"keywords": ["Kid's Sports Bras & Underwear", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-belts",
+						"categoryId": 378,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-belts",
+						"title": "Belts",
+						"description": "This is a description about the Kid's Belts subcategory",
+						"keywords": ["Kid's Belts", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-sunglasses",
+						"categoryId": 379,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-sunglasses",
+						"title": "Sunglasses",
+						"description": "This is a description about the Kid's Sunglasses subcategory",
+						"keywords": ["Kid's Sunglasses", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-watches",
+						"categoryId": 380,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-watches",
+						"title": "Watches",
+						"description": "This is a description about the Kid's Watches subcategory",
+						"keywords": ["Kid's Watches", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-fishing",
+						"categoryId": 381,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-fishing",
+						"title": "Fishing",
+						"description": "This is a description about the Kid's Fishing subcategory",
+						"keywords": ["Kid's Fishing", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-clothing-other",
+						"categoryId": 382,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-clothing-other",
+						"title": "Other",
+						"description": "This is a description about the Kid's Clothing Other subcategory",
+						"keywords": ["Kid's Clothing Other", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "footwear",
+		"categoryId": 383,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/footwear",
+		"title": "Footwear",
+		"description": "This is a description about the Footwear top-level department",
+		"keywords": ["Footwear", "Boots", "Shoes", "Hiking", "Waterproof"],
+		"children": [
+			{
+				"state": "mens-footwear",
+				"categoryId": 384,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/mens-footwear",
+				"title": "Men's Footwear",
+				"description": "This is a description about the Men's Footwear category",
+				"keywords": ["Men's Footwear", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "mens-boots",
+						"categoryId": 385,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-boots",
+						"title": "Boots",
+						"description": "This is a description about the Men's Boots subcategory",
+						"keywords": ["Men's Boots", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-sandals",
+						"categoryId": 386,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-sandals",
+						"title": "Sandals",
+						"description": "This is a description about the Men's Sandals subcategory",
+						"keywords": ["Men's Sandals", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-shoes",
+						"categoryId": 387,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-shoes",
+						"title": "Shoes",
+						"description": "This is a description about the Men's Shoes subcategory",
+						"keywords": ["Men's Shoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-snowshoes",
+						"categoryId": 388,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-snowshoes",
+						"title": "Snowshoes",
+						"description": "This is a description about the Men's Snowshoes subcategory",
+						"keywords": ["Men's Snowshoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "mens-wader-boots",
+						"categoryId": 389,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/mens-wader-boots",
+						"title": "Wader Boots",
+						"description": "This is a description about the Men's Wader Boots subcategory",
+						"keywords": ["Men's Wader Boots", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "womens-footwear",
+				"categoryId": 390,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/womens-footwear",
+				"title": "Women's Footwear",
+				"description": "This is a description about the Women's Footwear category",
+				"keywords": ["Women's Footwear", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "womens-boots",
+						"categoryId": 391,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-boots",
+						"title": "Boots",
+						"description": "This is a description about the Women's Boots subcategory",
+						"keywords": ["Women's Boots", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-sandals",
+						"categoryId": 392,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-sandals",
+						"title": "Sandals",
+						"description": "This is a description about the Women's Sandals subcategory",
+						"keywords": ["Women's Sandals", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-shoes",
+						"categoryId": 393,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-shoes",
+						"title": "Shoes",
+						"description": "This is a description about the Women's Shoes subcategory",
+						"keywords": ["Women's Shoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-snowshoes",
+						"categoryId": 394,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-snowshoes",
+						"title": "Snowshoes",
+						"description": "This is a description about the Women's Snowshoes subcategory",
+						"keywords": ["Women's Snowshoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "womens-wader-boots",
+						"categoryId": 395,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/womens-wader-boots",
+						"title": "Wader Boots",
+						"description": "This is a description about the Women's Wader Boots subcategory",
+						"keywords": ["Women's Wader Boots", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "kids-footwear",
+				"categoryId": 396,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/kids-footwear",
+				"title": "Kid's Footwear",
+				"description": "This is a description about the Kid's Footwear category",
+				"keywords": ["Kid's Footwear", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "kids-boots",
+						"categoryId": 397,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-boots",
+						"title": "Boots",
+						"description": "This is a description about the Kid's Boots subcategory",
+						"keywords": ["Kid's Boots", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-sandals",
+						"categoryId": 398,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-sandals",
+						"title": "Sandals",
+						"description": "This is a description about the Kid's Sandals subcategory",
+						"keywords": ["Kid's Sandals", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-shoes",
+						"categoryId": 399,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-shoes",
+						"title": "Shoes",
+						"description": "This is a description about the Kid's Shoes subcategory",
+						"keywords": ["Kid's Shoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-snowshoes",
+						"categoryId": 400,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-snowshoes",
+						"title": "Snowshoes",
+						"description": "This is a description about the Kid's Snowshoes subcategory",
+						"keywords": ["Kid's Snowshoes", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "kids-wader-boots",
+						"categoryId": 401,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/kids-wader-boots",
+						"title": "Wader Boots",
+						"description": "This is a description about the Kid's Wader Boots subcategory",
+						"keywords": ["Kid's Wader Boots", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "socks",
+				"categoryId": 402,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/socks",
+				"title": "Socks",
+				"description": "This is a description about the Socks category",
+				"keywords": ["Socks", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "footwear-accessories",
+				"categoryId": 403,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/footwear-accessories",
+				"title": "Accessories",
+				"description": "This is a description about the Footwear Accessories category",
+				"keywords": ["Footwear Accessories", "Keyword", "Another Keyword"],
+				"children": []
+			}
+		]
+	},
+	{
+		"state": "home-and-gifts",
+		"categoryId": 404,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/home-and-gifts",
+		"title": "Home & Gifts",
+		"description": "This is a description about the Home & Gifts top-level department",
+		"keywords": ["Home", "Gifts"],
+		"children": [
+			{
+				"state": "food-preparation",
+				"categoryId": 405,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/food-preparation",
+				"title": "Food Preparation",
+				"description": "This is a description about the Food Preparation category",
+				"keywords": ["Food Preparation", "Keyword", "Another Keyword"],
+				"children": [
+					{
+						"state": "fryers",
+						"categoryId": 406,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/fryers",
+						"title": "Fryers",
+						"description": "This is a description about the Fryers subcategory",
+						"keywords": ["Fryers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "food-dehydrators",
+						"categoryId": 407,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/food-dehydrators",
+						"title": "Food Dehydrators",
+						"description": "This is a description about the Food Dehydrators subcategory",
+						"keywords": ["Food Dehydrators", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "smokers",
+						"categoryId": 408,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/smokers",
+						"title": "Smokers",
+						"description": "This is a description about the Smokers subcategory",
+						"keywords": ["Smokers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "seasonings-and-marinades",
+						"categoryId": 409,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/seasonings-and-marinades",
+						"title": "Seasonings & Marinades",
+						"description": "This is a description about the Seasonings & Marinades subcategory",
+						"keywords": ["Seasonings & Marinades", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "food-sealers-and-canning",
+						"categoryId": 401,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/food-sealers-and-canning",
+						"title": "Food Sealers & Canning",
+						"description": "This is a description about the Food Sealers & Canning subcategory",
+						"keywords": ["Food Sealers & Canning", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "jerky-and-sausage-makers",
+						"categoryId": 411,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/jerky-and-sausage-makers",
+						"title": "Jerky & Sausage Makers",
+						"description": "This is a description about the Jerky & Sausage Makers subcategory",
+						"keywords": ["Jerky & Sausage Makers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "meat-and-food-slicers",
+						"categoryId": 412,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/meat-and-food-slicers",
+						"title": "Meat & Food Slicers",
+						"description": "This is a description about the Meat & Food Slicers subcategory",
+						"keywords": ["Meat & Food Slicers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "meat-grinders-and-stuffers",
+						"categoryId": 413,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/meat-grinders-and-stuffers",
+						"title": "Meat Grinders & Stuffers",
+						"description": "This is a description about the Meat Grinders & Stuffers subcategory",
+						"keywords": ["Meat Grinders & Stuffers", "Keyword", "Another Keyword"],
+						"children": []
+					},
+					{
+						"state": "food-scales",
+						"categoryId": 414,
+						"level": 4,
+						"view": "Family",
+						"url": "/f/food-scales",
+						"title": "Food Scales",
+						"description": "This is a description about the Food Scales subcategory",
+						"keywords": ["Food Scales", "Keyword", "Another Keyword"],
+						"children": []
+					}
+				]
+			},
+			{
+				"state": "kitchen-&-dining",
+				"categoryId": 415,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/kitchen-&-dining",
+				"title": "Kitchen & Dining",
+				"description": "This is a description about the Kitchen & Dining category",
+				"keywords": ["Kitchen & Dining", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "home-decor",
+				"categoryId": 416,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/home-decor",
+				"title": "Home Decor",
+				"description": "This is a description about the Home Decor category",
+				"keywords": ["Home Decor", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "dog-gear",
+				"categoryId": 417,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/dog-gear",
+				"title": "Dog Gear",
+				"description": "This is a description about the Dog Gear category",
+				"keywords": ["Dog Gear", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "toys-&-games",
+				"categoryId": 418,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/toys-&-games",
+				"title": "Toys & Games",
+				"description": "This is a description about the Toys & Games category",
+				"keywords": ["Toys & Games", "Keyword", "Another Keyword"],
+				"children": []
+			},
+			{
+				"state": "truck-accessories",
+				"categoryId": 419,
+				"level": 3,
+				"view": "Category",
+				"url": "/c/truck-accessories",
+				"title": "Truck Accessories",
+				"description": "This is a description about the Truck Accessories category",
+				"keywords": ["Truck Accessories", "Keyword", "Another Keyword"],
+				"children": []
+			}
+		]
+	},
+	{
+		"state": "clearance",
+		"categoryId": 420,
+		"level": 2,
+		"view": "Category",
+		"url": "/d/clearance",
+		"title": "Clearance",
+		"description": "This is a description about the Clearance top-level department",
+		"keywords": ["Clearance", "Sale", "Markdowns"],
+		"children": []
+	}
+]
