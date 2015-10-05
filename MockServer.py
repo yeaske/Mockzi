@@ -10,13 +10,14 @@ import json
 from datetime import timedelta
 from functools import update_wrapper
 from bson import json_util  # date parse for last_modified_date
+#from bson.json_util import dumps
 
 from tornado.wsgi import WSGIContainer
 from tornado.httpserver import HTTPServer
 from tornado.ioloop import IOLoop
 
 from functools import wraps
-from cas import CASClient
+#from cas import CASClient
 import requests as reqsts
 
 app = Flask(__name__)
@@ -130,10 +131,21 @@ def totalRequests():
     resp = Response(data, status=200, mimetype='application/json')
     return resp
 
+@app.route("/searchResults", methods=['GET', 'OPTIONS'])
+@crossdomain(origin='*')
+def searchResults():
+    f = open('data/search-results.json', 'r')
+    data= f.read()
+    #data = json.dumps(result, default=json_util.default, ensure_ascii=False)
+    resp = Response(data, status=200, mimetype='application/json')
+    return resp
+
+
 # if __name__ == "__main__":
 #     app.run(host= '0.0.0.0')
 
 if __name__ == '__main__':
     http_server = HTTPServer(WSGIContainer(app))
+    print "Starting server at 5000"
     http_server.listen(5000)
     IOLoop.instance().start()
